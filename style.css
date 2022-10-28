@@ -1,0 +1,48 @@
+.logo{
+    height: 50px;
+    width:200px;
+    border-radius: 100px;
+    margin-left: 50px;
+    margin-right: 450px;
+}
+.nav-sec{
+    margin-right: 15px;
+}
+
+body{
+    background-color: rgb(107, 185, 185);
+}
+.container{
+    min-height: 70vh;
+    background-color: black;
+    margin:23px auto;
+    color:aliceblue;
+    text-align: center;
+    width: 70%;
+    border-radius: 5px;
+    background-image: url('https://img.freepik.com/free-vector/glowing-musical-pentagram-background-with-sound-notes_1017-31220.jpg?size=626&ext=jpg&ga=GA1.2.958152322.1666947096');
+}
+.bottom{
+    position:sticky;
+    background-color: rgb(16, 14, 14);
+    min-height: 80px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    bottom:0%;
+    color:aliceblue;
+    flex-direction: column;
+
+}
+.icons{
+    margin-top: 14px;
+    
+}
+.f1{
+    margin:5px 5px 5px 5px ;
+}
+#progressbar{
+    width:60vw;
+   
+    
+}
